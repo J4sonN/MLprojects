@@ -63,7 +63,7 @@ Type 1 error, also referred to as a false positive, occurs when our model incorr
 
 **F1-score**
 
-*he performance of a classification model. It is the harmonic mean of precision and recall, providing a balanced measure of both metrics.*
+*the performance of a classification model. It is the harmonic mean of precision and recall, providing a balanced measure of both metrics.*
 ![f1-score](https://github.com/J4sonN/MLprojects/assets/128573553/b8504253-b1c1-4430-b684-4590e4bca116)
 
 #### Model comparision and recommendation:
